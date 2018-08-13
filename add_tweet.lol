@@ -1,0 +1,28 @@
+#!/usr/local/bin/lci
+HAI 1.2
+VISIBLE "GIMMEH NUMBRZ AN I SUMS THEM"
+IM IN YR g
+	I HAS A a, GIMMEH a
+	I HAS A b, GIMMEH b
+	I HAS A sum ITZ SUM OF a AN b
+	VISIBLE "THAT'S UHH, GONNA BE " DIFF OF sum AN 1
+	VISIBLE "OH SHOOT! WAIT NO!.. " sum "!:)"
+IM OUTTA YR g
+KTHXBYE
+
+
+OBTW
+What was actually tweeted
+
+HAI 1.2
+VISIBLE "GIMMEH NUMBRZ AN I SUMS THEM"
+IM IN YR loop
+I HAS A x, GIMMEH x
+I HAS A y, GIMMEH y
+I HAS A sum ITZ SUM OF x AN y
+VISIBLE "THAT'S UHH, GONNA BE " DIFF OF sum AN 1
+VISIBLE "OH SHOOT! WAIT NO!.. " sum "!:)"
+IM OUTTA YR loop
+KTHXBYE
+#LOLCODE @icanhaslolcode 
+TLDR

@@ -1,0 +1,17 @@
+#!/usr/local/bin/lci
+HAI 10.5
+VISIBLE "GIMMEH NUMBRZ AN I SUMS THEM"
+IM IN YR loop
+	I HAS A a, GIMMEH a
+	BOTH SAEM a AN "exit", O RLY?
+		YA RLY, GTFO
+	OIC
+	I HAS A b, GIMMEH b
+	BOTH SAEM b AN "exit", O RLY?
+		YA RLY, GTFO
+	OIC
+	I HAS A sum ITZ SUM OF a AN b
+	VISIBLE "THAT'S UHH, GONNA BE " DIFF OF sum AN 1
+	VISIBLE "OH SHOOT! WAIT NO!.. " sum "!:)"
+IM OUTTA YR loop
+KTHXBYE
